@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "QuoteKit",
+        "repositoryURL": "https://github.com/rudrankriyam/QuoteKit.git",
+        "state": {
+          "branch": null,
+          "revision": "48f6b508a82ae2c06f3ed1b90412941bb17d9a64",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
