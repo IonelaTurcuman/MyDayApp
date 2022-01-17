@@ -20,5 +20,5 @@ The main characteristic of this application, the calendar, was build based on th
 
 ## Demo
 
-![](https://github.com/IonelaTurcuman/MyDayApp/blob/main/MyDay/demo.gif)
+![](https://github.com/IonelaTurcuman/MyDayApp/blob/main/MyDay/gifdemo.gif)
 
