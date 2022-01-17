@@ -2,6 +2,7 @@
 
 An iOS application implemented using MVC (Mode-View-ViewController) design pattern.
 
+![](https://github.com/IonelaTurcuman/MyDayApp/blob/main/MyDay/banner.png)
 
 ## General
 
@@ -18,4 +19,6 @@ The main characteristic of this application, the calendar, was build based on th
 
 
 ## Demo
+
+![](https://github.com/IonelaTurcuman/MyDayApp/blob/main/MyDay/demo.gif)
 
